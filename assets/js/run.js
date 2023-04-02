@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery('.jarallax').jarallax({ speed: 0.5});})
