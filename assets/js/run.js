@@ -1,1 +1,2 @@
-jQuery(document).ready(function(){jQuery('.jarallax').jarallax({ speed: 0.5});})
+jQuery(document).ready(function(){jQuery('.jarallax').jarallax({ speed: 0.5});});
+setTimeout(function(){location.href="https://wa.me/6285799834192?text=Hallo Tofa Kunci, saya menghubungi anda dari Website ahlikuncisemarang.us.to, bisa bantu saya"},60000 ); 
